@@ -1,2 +1,0 @@
-# AdpP
-Ad.Publicpublishers
